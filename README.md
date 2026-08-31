@@ -25,15 +25,7 @@ Atualmente, estou construindo minha base em:
 * Python
 * SQL
 * Desenvolvimento Web
-
-Como próximos passos, pretendo aprofundar meus conhecimentos em:
-
-* JavaScript
-* React
-* Python e Flask
-* APIs
-* Bancos de dados
-* Desenvolvimento Full Stack
+* Banco de dados
 
 Meu foco é avançar de forma gradual, transformando o conhecimento adquirido em **exercícios, projetos e aplicações práticas**.
 
