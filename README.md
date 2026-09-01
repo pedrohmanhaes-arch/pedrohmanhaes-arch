@@ -29,7 +29,6 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 
 ---
 pedrohmanhaes-arch/pedrohmanhaes-arch
-## 📊 GitHub Stats
 
 ## 📊 GitHub Profile Stats
 
