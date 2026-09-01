@@ -29,6 +29,16 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://ghstats.dev/api/card?username=pedrohmanhaes-arch&theme=default"
+    alt="GitHub Stats"
+  />
+</p>
+---
+
 ## 💻 Como comecei na programação
 
 Meu interesse pela tecnologia começou de forma bastante simples: estudando **Python por curiosidade**.
