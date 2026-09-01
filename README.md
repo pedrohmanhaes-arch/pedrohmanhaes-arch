@@ -11,16 +11,19 @@ Atualmente, estou direcionando minha formação para o **Desenvolvimento Full St
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=pedrohmanhaes-arch&show_icons=true&theme=transparent&include_all_commits=true" 
-  />
+  <a href="https://github.com/pedrohmanhaes-arch">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=pedrohmanhaes-arch&show_icons=true&theme=transparent&cache_seconds=1800"
+    />
+  </a>
 
-<img 
- height="180em" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohmanhaes-arch&layout=compact&langs_count=6&theme=transparent" 
-/>
-
+  <a href="https://github.com/pedrohmanhaes-arch">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohmanhaes-arch&layout=compact&langs_count=6&theme=transparent&cache_seconds=1800"
+    />
+  </a>
 </p>
 
 ---
