@@ -1,62 +1,117 @@
 # Olá! 👋
 
-Sou psicólogo clínico e social, concursado na área de Psicologia. Ao longo da minha trajetória profissional, tive a oportunidade de trabalhar com diferentes públicos e contextos, passando pelas áreas da **Saúde, Hospitalar e Educação**. Atualmente, atuo na **Assistência Social**, com atendimentos de baixa, média e alta complexidade, principalmente junto a famílias e pessoas em diferentes situações de vulnerabilidade.
+Sou psicólogo clínico e social e, atualmente, estou construindo uma nova trajetória profissional na área de tecnologia.
 
-## 💻 Como comecei na programação
+Meu primeiro contato com a programação começou com o estudo de **Python por curiosidade**. Com o tempo, esse interesse cresceu e se transformou em uma rotina de aprendizado, estudos e desenvolvimento de projetos.
 
-Meu interesse pela tecnologia começou de forma bastante simples: **estudando o básico de Python por curiosidade**.
+Atualmente, estou direcionando minha formação para o **Desenvolvimento Full Stack**, buscando construir uma base sólida e transformar conhecimento teórico em aplicações práticas.
 
-No início, não imaginava que programação fosse uma área na qual eu conseguiria me desenvolver. Mesmo assim, continuei estudando e, conforme os conceitos começaram a fazer sentido, percebi que havia encontrado algo que realmente despertava meu interesse.
+---
 
-Comecei utilizando plataformas como **SoloLearn e Mimo**, estudando Python, HTML e SQL, e posteriormente ampliei minha formação através de cursos oferecidos por instituições como **Bradesco, Santander e ENAP**.
+## 📊 GitHub Stats
 
-O que começou como curiosidade acabou se transformando em uma rotina de estudos. Gosto especialmente do processo de aprender algo novo, colocar em prática, encontrar erros, entender o que aconteceu e buscar uma solução.
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=pedrohmanhaes-arch&show_icons=true&theme=transparent&include_all_commits=true" 
+  />
 
-## 📚 O que estou estudando
+<img 
+ height="180em" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohmanhaes-arch&layout=compact&langs_count=6&theme=transparent" 
+/>
 
-A partir dos primeiros estudos com Python, comecei a direcionar minha formação para o **Desenvolvimento Full Stack**.
+</p>
 
-Atualmente, estou construindo minha base em:
+---
+
+## 🚀 Tecnologias e ferramentas
+
+Atualmente, estou estudando e desenvolvendo conhecimentos em:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,mysql,vscode" />
+</p>
 
 * HTML5
 * CSS3
 * JavaScript
-* Git e GitHub
 * Python
 * SQL
+* Git e GitHub
 * Desenvolvimento Web
-* Banco de dados
+* Banco de Dados
 
-Meu foco é avançar de forma gradual, transformando o conhecimento adquirido em **exercícios, projetos e aplicações práticas**.
+Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que aprendo por meio de **exercícios, projetos e experimentos práticos**.
 
-## 🛠️ Este GitHub
+---
 
-Este GitHub é o registro dessa trajetória.
+## 💻 Como comecei na programação
+
+Meu interesse pela tecnologia começou de forma bastante simples: estudando **Python por curiosidade**.
+
+No início, não imaginava que a programação pudesse se tornar uma nova possibilidade profissional. Mesmo assim, continuei estudando e, conforme os conceitos começaram a fazer sentido, percebi que havia encontrado uma área que realmente despertava meu interesse.
+
+Comecei utilizando plataformas como **SoloLearn** e **Mimo**, estudando Python, HTML e SQL. Posteriormente, ampliei meus conhecimentos por meio de cursos e formações oferecidos por instituições como **Bradesco, Santander e ENAP**.
+
+O que começou como curiosidade acabou se transformando em uma rotina de estudos.
+
+Gosto especialmente do processo de aprender algo novo, colocar em prática, encontrar erros, entender o que aconteceu e buscar soluções.
+
+---
+
+## 🛠️ O que você vai encontrar aqui
+
+Este GitHub é um espaço para registrar minha evolução na área de tecnologia.
 
 Aqui pretendo reunir:
 
 * 📖 Estudos e exercícios
-* 💻 Projetos desenvolvidos durante os cursos
+* 💻 Projetos desenvolvidos durante cursos e formações
 * 🧪 Experimentos e testes
 * 🚀 Projetos pessoais
 * 📝 Anotações e materiais de aprendizado
+* 🌐 Aplicações e projetos voltados ao desenvolvimento web
 
-Mais do que reunir projetos prontos, quero que este espaço mostre **minha evolução ao longo do tempo**.
+Mais do que reunir apenas projetos finalizados, quero que este espaço também registre **minha evolução ao longo do processo de aprendizado**.
+
+---
 
 ## 🧠 Psicologia + Tecnologia
 
-A transição para a tecnologia não significa deixar a Psicologia de lado.
+Minha transição para a tecnologia não significa abandonar completamente minha trajetória anterior.
 
-Continuo valorizando minha profissão e pretendo manter a **Psicologia Clínica nos horários disponíveis**, enquanto desenvolvo uma nova trajetória profissional na área de tecnologia.
+A experiência construída ao longo dos anos na Psicologia, atuando em contextos relacionados à **Saúde, ambiente Hospitalar, Educação e Assistência Social**, contribuiu para o desenvolvimento de habilidades que considero valiosas também na área de tecnologia.
 
-Acredito também que minha experiência profissional pode contribuir nessa nova etapa. O trabalho com pessoas, diferentes públicos, situações complexas e realidades diversas desenvolveu habilidades que considero importantes em qualquer área, como **comunicação, responsabilidade, resolução de problemas e capacidade de adaptação**.
+Entre elas:
 
-## 🎯 Próximos passos
+* Comunicação
+* Resolução de problemas
+* Capacidade de adaptação
+* Trabalho com diferentes públicos
+* Responsabilidade
+* Análise de situações complexas
+* Aprendizado contínuo
+
+Acredito que a tecnologia é uma área construída não apenas por conhecimento técnico, mas também pela capacidade de **entender problemas, aprender continuamente e construir soluções**.
+
+---
+
+## 🎯 Objetivos
 
 Meu objetivo é construir uma formação sólida em desenvolvimento e, gradualmente, transformar meus estudos em projetos cada vez mais completos.
 
-Ainda estou no início dessa jornada, mas o mais importante já aconteceu: **descobri uma área que realmente me dá vontade de continuar aprendendo.**
+Neste momento, estou focado em:
+
+* 📚 Consolidar os fundamentos da programação
+* 🌐 Desenvolver projetos para web
+* 🐍 Evoluir meus conhecimentos em Python
+* 🗄️ Aprofundar conhecimentos em bancos de dados e SQL
+* 🔧 Desenvolver boas práticas com Git e GitHub
+* 🚀 Construir um portfólio com projetos práticos
+
+Ainda estou no início dessa jornada, mas sigo estudando, praticando e construindo.
 
 Este GitHub acompanha esse processo.
 
-**Uma nova área, um novo desafio e muito aprendizado pela frente.** 👋
+### Uma nova área, novos desafios e muito aprendizado pela frente. 🚀
