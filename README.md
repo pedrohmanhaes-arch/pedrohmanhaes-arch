@@ -31,7 +31,9 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 pedrohmanhaes-arch/pedrohmanhaes-arch
 ## 📊 GitHub Stats
 
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=pedrohmanhaes-arch/pedrohmanhaes-arch&theme=midnight
+## 📊 GitHub Profile Stats
+
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=pedrohmanhaes-arch&theme=midnight)
 ---
 
 ## 💻 Como comecei na programação
