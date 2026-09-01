@@ -28,11 +28,25 @@ Atualmente, estou estudando e desenvolvendo conhecimentos em:
 Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que aprendo por meio de **exercícios, projetos e experimentos práticos**.
 
 ---
-pedrohmanhaes-arch/pedrohmanhaes-arch
 
-## 📊 GitHub Profile Stats
+## 📊 GitHub Stats
 
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=pedrohmanhaes-arch&theme=midnight)
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/signal-field-wide-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/signal-field-wide-light.svg"
+    />
+    <img
+      src="./profile/signal-field-wide-light.svg"
+      alt="GitHub Profile Stats"
+    />
+  </picture>
+</p>
 ---
 
 ## 💻 Como comecei na programação
