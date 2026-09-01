@@ -31,19 +31,44 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 
 ## 📊 GitHub Stats
 
+## 📈 Activity Consistency
+
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./profile/signal-field-wide-dark.svg"
+      srcset="./profile/activity-consistency-wide-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./profile/signal-field-wide-light.svg"
+      srcset="./profile/activity-consistency-wide-light.svg"
     />
     <img
-      src="./profile/signal-field-wide-light.svg"
-      alt="GitHub Profile Stats"
+      src="./profile/activity-consistency-wide-light.svg"
+      alt="GitHub Activity Consistency"
+      width="640"
+    />
+  </picture>
+</p>
+
+---
+
+## 💻 Language Composition
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/language-composition-wide-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/language-composition-wide-light.svg"
+    />
+    <img
+      src="./profile/language-composition-wide-light.svg"
+      alt="GitHub Language Composition"
+      width="640"
     />
   </picture>
 </p>
