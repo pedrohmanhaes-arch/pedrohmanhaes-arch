@@ -89,14 +89,12 @@ Mais do que reunir apenas projetos finalizados, quero que este espaço também r
 
  🧠 Psicologia + Tecnologia
 
-Minha transição para a tecnologia não significa abandonar completamente minha trajetória anterior.
-
 A experiência construída ao longo dos anos na Psicologia, atuando em contextos relacionados à **Saúde, ambiente Hospitalar, Educação e Assistência Social**, contribuiu para o desenvolvimento de habilidades que considero valiosas também na área de tecnologia.
 
 Entre elas:
 
-- Empatia
 - Inteligência emocional
+- Empatia
 - Comunicação
 - Resolução de problemas
 - Capacidade de adaptação
