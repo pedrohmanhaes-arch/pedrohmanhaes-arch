@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:180003,20:650006,40:C00008,55:5A0010,70:071B4A,82:003B8F,92:0074E8,100:001F52&text=Pedro%20H.%20Manh%C3%A3es&fontSize=48&fontColor=FFFFFF&stroke=020817&strokeWidth=1&animation=twinkling&fontAlignY=35&textBg=false"/>
-<p><h3>Olá! 👋 </h3> </p>
+
+<p><h1>Olá! 👋 </h1> </p>
 
 <p>Sou psicólogo clínico e social e, atualmente, estou construindo uma nova trajetória profissional na área de tecnologia.
 
