@@ -13,73 +13,24 @@ Atualmente, estou direcionando minha formação para o **Desenvolvimento Full St
 Atualmente, estou estudando e desenvolvendo conhecimentos em:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,mysql,vscode" alt="Tecnologias: HTML, CSS, JavaScript, Python, Git, GitHub, MySQL e VS Code" />
 </p>
 
-* HTML5
-* CSS3
-* JavaScript
-* Python
-* SQL
-* Git e GitHub
-* Desenvolvimento Web
-* Banco de Dados
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que aprendo por meio de **exercícios, projetos e experimentos práticos**.
 
 ---
 
-## 📊 GitHub Stats
-
-## 📈 Activity Consistency
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pedrohmanhaes-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohmanhaes-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohmanhaes-arch&theme=tokyo-night&hide_border=true&radius=10&area=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 💻 Language Composition
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/language-composition-wide-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile/language-composition-wide-light.svg"
-    />
-    <img
-      src="./profile/language-composition-wide-light.svg"
-      alt="GitHub Language Composition"
-      width="640"
-    />
-  </picture>
-</p>
----
-
-## 💻 Como comecei na programação
+## 📚 Como comecei na programação
 
 Meu interesse pela tecnologia começou de forma bastante simples: estudando **Python por curiosidade**.
 
@@ -107,6 +58,35 @@ Aqui pretendo reunir:
 * 🌐 Aplicações e projetos voltados ao desenvolvimento web
 
 Mais do que reunir apenas projetos finalizados, quero que este espaço também registre **minha evolução ao longo do processo de aprendizado**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 📈 Minha atividade no GitHub
+
+<p align="center">
+  <img
+    src="./profile/activity-consistency-wide-light.svg"
+    alt="GitHub Activity"
+    width="640"
+  />
+</p>
 
 ---
 
@@ -147,4 +127,18 @@ Ainda estou no início dessa jornada, mas sigo estudando, praticando e construin
 
 Este GitHub acompanha esse processo.
 
-### Uma nova área, novos desafios e muito aprendizado pela frente. 🚀
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/pedrohmanhaes-arch">
+    <img src="https://img.shields.io/badge/GitHub-pedrohmanhaes--arch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Uma nova área, novos desafios e muito aprendizado pela frente. 🚀</i>
+</p>
