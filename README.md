@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-📌 Sobre mim
+<p>📌 Sobre mim</p>
 
-Olá! 👋
+<p>Olá! 👋 </p>
 
-Sou psicólogo clínico e social e, atualmente, estou construindo uma nova trajetória profissional na área de tecnologia.
+<p>Sou psicólogo clínico e social e, atualmente, estou construindo uma nova trajetória profissional na área de tecnologia.
 
 Meu primeiro contato com a programação começou com o estudo de **Python por curiosidade**. Com o tempo, esse interesse cresceu e se transformou em uma rotina de aprendizado, estudos e desenvolvimento de projetos.
 
-Atualmente, estou direcionando minha formação para o **Desenvolvimento Full Stack**, buscando construir uma base sólida e transformar conhecimento teórico em aplicações práticas.
+Atualmente, estou direcionando minha formação para o **Desenvolvimento Full Stack**, buscando construir uma base sólida e transformar conhecimento teórico em aplicações práticas.</p>
 
 ---
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
