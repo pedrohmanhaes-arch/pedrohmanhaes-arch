@@ -26,16 +26,21 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="GitHub Stats"
-    width="495"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-    width="335"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/signal-field-wide-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/signal-field-wide-light.svg"
+    />
+    <img
+      src="./profile/signal-field-wide-light.svg"
+      alt="GitHub Activity and Statistics"
+      width="640"
+    />
+  </picture>
 </p>
 
 ---
