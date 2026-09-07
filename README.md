@@ -29,6 +29,22 @@ Atualmente, estou estudando e desenvolvendo conhecimentos em:
 Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que aprendo por meio de **exercícios, projetos e experimentos práticos**.
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    width="495"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+    width="335"
+  />
+</p>
+
+---
 
 ## 📚 Como comecei na programação
 
