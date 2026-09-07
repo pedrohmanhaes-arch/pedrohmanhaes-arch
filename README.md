@@ -1,4 +1,6 @@
-# Olá! 👋
+## 📌 About Me
+
+Olá! 👋
 
 Sou psicólogo clínico e social e, atualmente, estou construindo uma nova trajetória profissional na área de tecnologia.
 
@@ -26,21 +28,29 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/signal-field-wide-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile/signal-field-wide-light.svg"
-    />
-    <img
-      src="./profile/signal-field-wide-light.svg"
-      alt="GitHub Activity and Statistics"
-      width="640"
-    />
-  </picture>
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrohmanhaes-arch&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
+    alt="Pedro H. Manhães's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=pedrohmanhaes-arch&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="Pedro H. Manhães's GitHub Streak"
+    width="49%"
+  />
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrohmanhaes-arch&langs_count=8&layout=compact&theme=radical&border_radius=10"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -115,7 +125,7 @@ Este GitHub acompanha esse processo.
 
 ---
 
-## 📫 Contato
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://github.com/pedrohmanhaes-arch">
@@ -131,6 +141,20 @@ Este GitHub acompanha esse processo.
       alt="LinkedIn"
     />
   </a>
+
+  <a href="mailto:pedrohmanhaes@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://wa.me/5514998612624">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="WhatsApp"
+    />
+  </a>
 </p>
 
 ---
@@ -138,3 +162,8 @@ Este GitHub acompanha esse processo.
 <p align="center">
   <i>Uma nova área, novos desafios e muito aprendizado pela frente. 🚀</i>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
