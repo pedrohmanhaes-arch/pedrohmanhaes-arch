@@ -34,21 +34,14 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 ## 📈 Activity Consistency
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./profile/activity-consistency-wide-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./profile/activity-consistency-wide-light.svg"
-    />
-    <img
-      src="./profile/activity-consistency-wide-light.svg"
-      alt="GitHub Activity Consistency"
-      width="640"
-    />
-  </picture>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pedrohmanhaes-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohmanhaes-arch&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
