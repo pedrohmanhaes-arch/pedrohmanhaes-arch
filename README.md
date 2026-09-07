@@ -13,36 +13,10 @@ Atualmente, estou direcionando minha formação para o **Desenvolvimento Full St
 Atualmente, estou estudando e desenvolvendo conhecimentos em:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,mysql,vscode" alt="Tecnologias: HTML, CSS, JavaScript, Python, Git, GitHub, MySQL e VS Code" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,mysql,vscode" alt="HTML, CSS, JavaScript, Python, Git, GitHub, MySQL e VS Code" />
 </p>
 
 Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que aprendo por meio de **exercícios, projetos e experimentos práticos**.
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="GitHub Stats"
-    width="495"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-    width="335"
-  />
-</p>
 
 ---
 
@@ -66,14 +40,31 @@ Este GitHub é um espaço para registrar minha evolução na área de tecnologia
 
 Aqui pretendo reunir:
 
-* 📖 Estudos e exercícios
-* 💻 Projetos desenvolvidos durante cursos e formações
-* 🧪 Experimentos e testes
-* 🚀 Projetos pessoais
-* 📝 Anotações e materiais de aprendizado
-* 🌐 Aplicações e projetos voltados ao desenvolvimento web
+- 📖 Estudos e exercícios
+- 💻 Projetos desenvolvidos durante cursos e formações
+- 🧪 Experimentos e testes
+- 🚀 Projetos pessoais
+- 📝 Anotações e materiais de aprendizado
+- 🌐 Aplicações e projetos voltados ao desenvolvimento web
 
 Mais do que reunir apenas projetos finalizados, quero que este espaço também registre **minha evolução ao longo do processo de aprendizado**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    width="495"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+    width="335"
+  />
+</p>
 
 ---
 
@@ -85,13 +76,13 @@ A experiência construída ao longo dos anos na Psicologia, atuando em contextos
 
 Entre elas:
 
-* Comunicação
-* Resolução de problemas
-* Capacidade de adaptação
-* Trabalho com diferentes públicos
-* Responsabilidade
-* Análise de situações complexas
-* Aprendizado contínuo
+- Comunicação
+- Resolução de problemas
+- Capacidade de adaptação
+- Trabalho com diferentes públicos
+- Responsabilidade
+- Análise de situações complexas
+- Aprendizado contínuo
 
 Acredito que a tecnologia é uma área construída não apenas por conhecimento técnico, mas também pela capacidade de **entender problemas, aprender continuamente e construir soluções**.
 
@@ -103,12 +94,12 @@ Meu objetivo é construir uma formação sólida em desenvolvimento e, gradualme
 
 Neste momento, estou focado em:
 
-* 📚 Consolidar os fundamentos da programação
-* 🌐 Desenvolver projetos para web
-* 🐍 Evoluir meus conhecimentos em Python
-* 🗄️ Aprofundar conhecimentos em bancos de dados e SQL
-* 🔧 Desenvolver boas práticas com Git e GitHub
-* 🚀 Construir um portfólio com projetos práticos
+- 📚 Consolidar os fundamentos da programação
+- 🌐 Desenvolver projetos para web
+- 🐍 Evoluir meus conhecimentos em Python
+- 🗄️ Aprofundar conhecimentos em bancos de dados e SQL
+- 🔧 Desenvolver boas práticas com Git e GitHub
+- 🚀 Construir um portfólio com projetos práticos
 
 Ainda estou no início dessa jornada, mas sigo estudando, praticando e construindo.
 
@@ -120,7 +111,10 @@ Este GitHub acompanha esse processo.
 
 <p align="center">
   <a href="https://github.com/pedrohmanhaes-arch">
-    <img src="https://img.shields.io/badge/GitHub-pedrohmanhaes--arch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-pedrohmanhaes--arch-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
