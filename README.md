@@ -13,10 +13,30 @@ Atualmente, estou direcionando minha formação para o **Desenvolvimento Full St
 Atualmente, estou estudando e desenvolvendo conhecimentos em:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,mysql,vscode" alt="HTML, CSS, JavaScript, Python, Git, GitHub, MySQL e VS Code" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,python,git,github,mysql,vscode"
+    alt="HTML, CSS, JavaScript, Python, Git, GitHub, MySQL e VS Code"
+  />
 </p>
 
 Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que aprendo por meio de **exercícios, projetos e experimentos práticos**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    width="495"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+    width="335"
+  />
+</p>
 
 ---
 
@@ -48,23 +68,6 @@ Aqui pretendo reunir:
 - 🌐 Aplicações e projetos voltados ao desenvolvimento web
 
 Mais do que reunir apenas projetos finalizados, quero que este espaço também registre **minha evolução ao longo do processo de aprendizado**.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="GitHub Stats"
-    width="495"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-    width="335"
-  />
-</p>
 
 ---
 
@@ -114,6 +117,13 @@ Este GitHub acompanha esse processo.
     <img
       src="https://img.shields.io/badge/GitHub-pedrohmanhaes--arch-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/pedro-manh%C3%A3es-2a58b0177/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Pedro%20Manh%C3%A3es-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
 </p>
