@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Pedro%20H.%20Manh%C3%A3es&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:25000E,15:520018,30:85002D,45:9B0048,60:5B005D,75:260078,88:0047A8,100:002653&text=Pedro%20H.%20Manh%C3%A3es&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&textBg=false"/>
+
 <h2>📌 Sobre mim</h2>
 
 <p><h3>Olá! 👋 </h3> </p>
