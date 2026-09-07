@@ -3,13 +3,13 @@ name: Update GitHub Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  stats:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -36,6 +36,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update GitHub stats" || exit 0
+
+          git add profile/stats.svg profile/top-langs.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub stats"
+
           git push
