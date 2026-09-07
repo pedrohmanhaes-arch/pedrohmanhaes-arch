@@ -61,35 +61,6 @@ Mais do que reunir apenas projetos finalizados, quero que este espaço também r
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 📈 Minha atividade no GitHub
-
-<p align="center">
-  <img
-    src="./profile/activity-consistency-wide-light.svg"
-    alt="GitHub Activity"
-    width="640"
-  />
-</p>
-
----
-
 ## 🧠 Psicologia + Tecnologia
 
 Minha transição para a tecnologia não significa abandonar completamente minha trajetória anterior.
