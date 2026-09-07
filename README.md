@@ -1,6 +1,6 @@
-<p>📌 Sobre mim</p>
+<p><h2>📌 Sobre mim</h2></p>
 
-<p>Olá! 👋 </p>
+<p><h3>Olá! 👋 </h3> </p>
 
 <p>Sou psicólogo clínico e social e, atualmente, estou construindo uma nova trajetória profissional na área de tecnologia.
 
