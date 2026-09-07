@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-📌 About Me
+📌 Sobre mim
 
 Olá! 👋
 
@@ -10,8 +10,9 @@ Meu primeiro contato com a programação começou com o estudo de **Python por c
 Atualmente, estou direcionando minha formação para o **Desenvolvimento Full Stack**, buscando construir uma base sólida e transformar conhecimento teórico em aplicações práticas.
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 🚀 Tecnologias e ferramentas
+ 🚀 Tecnologias e ferramentas
 
 Atualmente, estou estudando e desenvolvendo conhecimentos em:
 
@@ -45,7 +46,7 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 
 ---
 
-## 🛠️ Languages & Tools
+ 🛠️ Languages & Tools
 
 <p align="center">
   <img
@@ -70,7 +71,7 @@ Gosto especialmente do processo de aprender algo novo, colocar em prática, enco
 
 ---
 
-## 🛠️ O que você vai encontrar aqui
+ 🛠️ O que você vai encontrar aqui
 
 Este GitHub é um espaço para registrar minha evolução na área de tecnologia.
 
@@ -87,7 +88,7 @@ Mais do que reunir apenas projetos finalizados, quero que este espaço também r
 
 ---
 
-## 🧠 Psicologia + Tecnologia
+ 🧠 Psicologia + Tecnologia
 
 Minha transição para a tecnologia não significa abandonar completamente minha trajetória anterior.
 
@@ -95,6 +96,8 @@ A experiência construída ao longo dos anos na Psicologia, atuando em contextos
 
 Entre elas:
 
+- Empatia
+- Inteligência emocional
 - Comunicação
 - Resolução de problemas
 - Capacidade de adaptação
@@ -107,7 +110,7 @@ Acredito que a tecnologia é uma área construída não apenas por conhecimento 
 
 ---
 
-## 🎯 Objetivos
+ 🎯 Objetivos
 
 Meu objetivo é construir uma formação sólida em desenvolvimento e, gradualmente, transformar meus estudos em projetos cada vez mais completos.
 
@@ -126,7 +129,7 @@ Este GitHub acompanha esse processo.
 
 ---
 
-## 🔗 Connect with Me
+🔗 Connect with Me
 
 <p align="center">
   <a href="https://github.com/pedrohmanhaes-arch">
