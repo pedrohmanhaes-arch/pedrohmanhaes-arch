@@ -61,7 +61,7 @@ Meu interesse pela tecnologia começou de forma bastante simples: estudando **Py
 
 No início, não imaginava que a programação pudesse se tornar uma nova possibilidade profissional. Mesmo assim, continuei estudando e, conforme os conceitos começaram a fazer sentido, percebi que havia encontrado uma área que realmente despertava meu interesse.
 
-Comecei utilizando plataformas como **SoloLearn** e **Mimo**, estudando Python, HTML e SQL. Posteriormente, ampliei meus conhecimentos por meio de cursos e formações oferecidos por instituições como **Bradesco, Santander e ENAP**.
+Comecei utilizando plataformas como **SoloLearn** e **Mimo**, estudando Python, HTML e CSS. Posteriormente, ampliei meus conhecimentos por meio de cursos e formações oferecidos por instituições como **Bradesco, Santander e ENAP**.
 
 O que começou como curiosidade acabou se transformando em uma rotina de estudos.
 
