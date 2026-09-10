@@ -95,6 +95,7 @@ Entre elas:
 - Inteligência emocional
 - Empatia
 - Comunicação
+- Trabalhar em equipe
 - Resolução de problemas
 - Capacidade de adaptação
 - Trabalho com diferentes públicos
