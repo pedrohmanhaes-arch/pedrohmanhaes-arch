@@ -129,19 +129,19 @@ Este GitHub acompanha esse processo.
 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/pedrohmanhaes-arch">
-    <img
-      src="https://img.shields.io/badge/GitHub-pedrohmanhaes--arch-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+ <a href="https://github.com/pedrohmanhaes-arch">
+  <img
+    src="https://img.shields.io/badge/GitHub-pedrohmanhaes--arch-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
-  <a href="https://www.linkedin.com/in/pedro-manh%C3%A3es-2a58b0177/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Pedro%20Manh%C3%A3es-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/pedro-manh%C3%A3es-2a58b0177/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Pedro%20Manh%C3%A3es-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
   <a href="mailto:pedrohmanhaes@gmail.com">
     <img
