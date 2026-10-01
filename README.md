@@ -129,9 +129,9 @@ Este GitHub acompanha esse processo.
 🔗 Connect with Me
 
 <p align="center">
- <a href="https://github.com/pedrohmanhaes-arch">
+<a href="https://github.com/pedrohmanhaes-arch">
   <img
-    src="https://img.shields.io/badge/GitHub-pedrohmanhaes--arch-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
