@@ -36,7 +36,7 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=pedrohmanhaes-arch&theme=radical&hide_border=true&cache_seconds=86400"
+    src="./profile/streak.svg"
     alt="Pedro H. Manhães's GitHub Streak"
     width="49%"
   />
