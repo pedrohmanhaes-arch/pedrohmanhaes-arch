@@ -29,11 +29,10 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrohmanhaes-arch&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
+    src="https://github-stats-extended.vercel.app/api?username=pedrohmanhaes-arch&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
     alt="Pedro H. Manhães's GitHub Stats"
   />
 </p>
-
 <p align="center">
   <img
     src="./profile/streak.svg"
@@ -48,7 +47,7 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrohmanhaes-arch&langs_count=8&layout=compact&theme=radical&border_radius=10"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedrohmanhaes-arch&langs_count=8&layout=compact&theme=radical&border_radius=10"
     alt="Top Languages"
   />
 </p>
